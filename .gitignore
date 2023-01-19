@@ -1,0 +1,8 @@
+/Binaries
+/.vs
+/.git
+/DerivedDataCache
+/Intermediate
+/Saved
+/Script
+*.sln
