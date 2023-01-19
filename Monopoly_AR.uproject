@@ -4,7 +4,11 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-
+		{
+			"Name": "Monopoly_AR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
 	],
 	"Plugins": [
 		{
